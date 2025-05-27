@@ -1,0 +1,73 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#3399ff",
+        "activityBar.background": "#3399ff",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#bf0060",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#3399ff",
+        "statusBar.background": "#007fff",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#3399ff",
+        "statusBarItem.remoteBackground": "#007fff",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#007fff",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#007fff99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+
+
+
+    // Editor Color Theme
+    "workbench.colorTheme": "Andromeda Colorizer",
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 1,
+
+    // Editor Multi Cursor
+    "editor.multiCursorModifier": "ctrlCmd",
+
+    // Editor Font
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    // Editor Font Size
+    "editor.fontSize": 14,
+
+    // Editor Line Height
+    "editor.lineHeight": 1.3,
+
+    // Editor Tab Size
+    "editor.tabSize": 4,
+
+
+    // Peacock
+    "peacock.color": "#007fff",
+
+    // Spellcheck abilitar en español
+    "cSpell.language": "en,es",
+
+    // Bookmarks Que se guarden en este proyecto
+    "bookmarks.saveBookmarksInProject": true,
+ 
+    // Para Tener listos los Easy Snippets
+    // Solo copiar el archivo de otro proyecto: .vscode/snippets.code-snippets
+
+    // Laravel Blade Formatter
+    "bladeFormatter.format.wrapLineLength": 500,
+    "bladeFormatter.format.wrapAttributes": "auto",
+    "bladeFormatter.format.useTabs": false,
+    "bladeFormatter.format.wrapAttributesMinAttrs": 10,
+    "squarl.bookmarks": [
+        {
+            "name": "welcome.blade.php",
+            "path": "resources/views/welcome.blade.php",
+            "description": "welcome.blade.php",
+            "type": "file"
+        }
+    ]
+
+
+}

@@ -47,6 +47,12 @@ class User extends Authenticatable
         ];
     }
 
+    // crear la relación de listas que pertenecen a un user:
+    public function lists()
+    {
+        return $this->hasMany(TaskList::class);
+    }
+    
     /**
      * Get the user's initials
      */
